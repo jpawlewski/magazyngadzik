@@ -1,0 +1,127 @@
+2019-10-19 16:25:10 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 16:47:23 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 16:51:19 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 16:52:40 Balton.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 100, 'maka zytnia jasna': 14, 'woda': 600, 'sol': 280}
+2019-10-19 16:53:49 Balton.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 100, 'maka zytnia jasna': 14, 'woda': 600, 'sol': 280}
+2019-10-19 16:55:49 Brioche duża.xlsx ilosc wybranych: 1 pobrano z magazynu: {'maka tortowa': 8000, 'maka pszenna chlebowa jasna': 8000, 'jaja': 7000, 'maslo': 7000, 'cukier': 2600, 'sol': 360, 'woda': 1000, 'drozdze': 200}
+2019-10-19 16:58:36 Balton.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 100, 'maka zytnia jasna': 14, 'woda': 600, 'sol': 280}
+2019-10-19 17:02:40 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:08:28 brownie.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 17:10:23 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 17:12:52 brownie.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 17:13:28 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 17:16:32 banana bread1.xlsx ilosc wybranych: 2 pobrano z magazynu: {'owies': 65.0, 'sol': 3.0, 'orkisz': 280.0, 'cynamon': 2.0, 'gozdziki': 2.0, 'galka': 2.0, 'jaja': 120.0, 'maka pszenna razowa': 22.0, 'miod': 42.0, 'banany': 500.0, 'olej kokosowy': 150.0, 'orzechy': 50.0, 'mleko': 40.0, 'cukier': 100.0, 'maslo': 50.0, nan: nan}
+2019-10-19 17:18:19 Bagietki duze.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:21:09 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:22:23 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:26:48 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:30:43 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:33:33 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:34:51 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:36:59 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:39:46 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:42:27 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:43:24 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:44:23 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:47:33 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:48:30 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:49:58 Bagietki duze.xlsx ilosc wybranych: 1 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:50:29 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:53:10 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:54:13 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 17:56:02 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 19:33:49 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 19:34:32 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 19:36:04 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 19:36:17 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 19:36:45 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 19:46:50 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 19:48:46 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 19:49:30 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 19:52:36 Bagietki duze.xlsx ilosc wybranych: 7 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 19:53:16 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 19:53:32 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 19:56:42 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 19:57:03 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 19:57:51 chałka 160 + 40.xlsx ilosc wybranych: 5 pobrano z magazynu: {'maka tortowa': 20.0, 'maka pszenna chlebowa jasna': 6000.0, 'mleko': 5000.0, 'maslo': 10.0, 'cukier': 10.0, 'sol': 220.0, 'drozdze': 30.0, 'jaja': 2600.0, nan: nan}
+2019-10-19 20:01:29 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 20:03:40 Bagietki duze.xlsx ilosc wybranych: 1 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 20:04:25 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 20:04:39 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 20:07:45 Bagietki duze.xlsx ilosc wybranych: 5 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 20:08:01 brownie.xlsx ilosc wybranych: 5 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 20:09:01 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 20:10:22 brownie.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 20:14:01 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 20:14:19 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 20:14:34 chałka 160 + 40.xlsx ilosc wybranych: 5 pobrano z magazynu: {'maka tortowa': 20.0, 'maka pszenna chlebowa jasna': 6000.0, 'mleko': 5000.0, 'maslo': 10.0, 'cukier': 10.0, 'sol': 220.0, 'drozdze': 30.0, 'jaja': 2600.0, nan: nan}
+2019-10-19 20:15:18 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 20:15:30 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 20:19:09 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 20:19:48 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 20:20:16 brownie.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 20:21:53 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 20:22:08 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 20:25:01 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 20:27:12 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 20:31:07 Balton.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 100, 'maka zytnia jasna': 14, 'woda': 600, 'sol': 280}
+2019-10-19 20:42:54 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 20:43:33 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 20:59:31 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:09:56 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:15:53 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:18:15 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:18:51 Balton.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 100, 'maka zytnia jasna': 14, 'woda': 600, 'sol': 280}
+2019-10-19 21:19:14 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:19:29 Bagietki duze.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:19:58 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:20:16 chałka 160 + 40.xlsx ilosc wybranych: 6 pobrano z magazynu: {'maka tortowa': 20.0, 'maka pszenna chlebowa jasna': 6000.0, 'mleko': 5000.0, 'maslo': 10.0, 'cukier': 10.0, 'sol': 220.0, 'drozdze': 30.0, 'jaja': 2600.0, nan: nan}
+2019-10-19 21:24:34 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:24:55 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:27:38 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:28:31 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:28:44 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:30:31 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:30:47 brownie.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:31:40 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:32:00 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:32:52 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:34:34 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:39:22 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:39:44 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:41:00 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:41:15 Bagietki duze.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:41:50 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:42:01 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:42:13 chałka 160 + 40.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 20.0, 'maka pszenna chlebowa jasna': 6000.0, 'mleko': 5000.0, 'maslo': 10.0, 'cukier': 10.0, 'sol': 220.0, 'drozdze': 30.0, 'jaja': 2600.0, nan: nan}
+2019-10-19 21:42:31 brownie.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:43:23 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:43:37 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:43:53 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:50:24 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:50:38 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:51:25 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:51:37 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 21:57:50 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 21:58:03 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 22:01:10 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 22:01:23 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 22:02:00 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 22:02:12 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 22:03:50 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 22:04:02 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 22:05:24 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 22:05:45 chałka 160 + 40.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 20.0, 'maka pszenna chlebowa jasna': 6000.0, 'mleko': 5000.0, 'maslo': 10.0, 'cukier': 10.0, 'sol': 220.0, 'drozdze': 30.0, 'jaja': 2600.0, nan: nan}
+2019-10-19 22:20:28 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 22:29:50 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 22:30:02 brownie.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-19 22:30:46 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-19 22:30:57 brownie.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 100.0, 'sol': 0.80000000000000004, 'czekolada': 100.0, 'cukier karmelizowany': 152.0, 'cukier waniliowy': 20.0, 'proszek do pieczenia': 4.0, 'maslo': 74.0, 'jaja': 74.0}
+2019-10-23 19:20:27 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-23 19:20:55 Brioche duża.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 8000, 'maka pszenna chlebowa jasna': 8000, 'jaja': 7000, 'maslo': 7000, 'cukier': 2600, 'sol': 360, 'woda': 1000, 'drozdze': 200}
+2019-10-23 19:22:44 chałka 160 + 40.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka tortowa': 20.0, 'maka pszenna chlebowa jasna': 6000.0, 'mleko': 5000.0, 'maslo': 10.0, 'cukier': 10.0, 'sol': 220.0, 'drozdze': 30.0, 'jaja': 2600.0, nan: nan}
+2019-10-28 19:16:35 Balton.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 100, 'maka zytnia jasna': 14, 'woda': 600, 'sol': 280}
+2019-10-28 19:17:52 Bagietki duze.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-28 19:18:59 Bagietki duze.xlsx ilosc wybranych: 3 pobrano z magazynu: {'maka pszenna chlebowa jasna': 13000, 'woda': 9600, 'sol': 240, 'drozdze': 70}
+2019-10-28 19:19:22 chałka 160 + 40.xlsx ilosc wybranych: 4 pobrano z magazynu: {'maka tortowa': 20.0, 'maka pszenna chlebowa jasna': 6000.0, 'mleko': 5000.0, 'maslo': 10.0, 'cukier': 10.0, 'sol': 220.0, 'drozdze': 30.0, 'jaja': 2600.0, nan: nan}
+2019-10-28 19:27:35 Brioche duża.xlsx ilosc wybranych: 2 pobrano z magazynu: {'maka tortowa': 8000, 'maka pszenna chlebowa jasna': 8000, 'jaja': 7000, 'maslo': 7000, 'cukier': 2600, 'sol': 360, 'woda': 1000, 'drozdze': 200}
