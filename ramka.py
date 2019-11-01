@@ -66,7 +66,7 @@ iloscPrzepisow = len(onlyfiles)-2
 listaPrzepisow = []
 for item in onlyfiles:
     item = item.strip('.xlsx')
-    if item == 'magazyn' or item == 'program.py' or item == 'dostawa.py':
+    if item == 'magazyn' or item == 'program.py' or item == 'dostawa.py'or item == 'ramka.py'or item == 'wybierane.txt':
         pass
     else:
         listaPrzepisow.append(item)
@@ -196,20 +196,26 @@ def pobierzDodatki(wybor):
     dictMagazyn = dict(zip(magazyn['produkt'], magazyn['ilosc']))
     for key in dictMagazyn:
         if key == wybor:
-            print("znaleziony")
-            uzyto = float(iloscDodatkow.get())
+            uzyto = float(iloscChlebow.get())
             zmiana = magazyn2.loc[wybor, 'ilosc'] - uzyto
             magazyn2.loc[wybor, 'ilosc'] = zmiana
             zapis = pd.ExcelWriter("magazyn.xlsx")
             magazyn2.to_excel(zapis, "magazyn.xlsx")
             zapis.save()
-    iloscDodatkow.delete(0, Tk.END)
+    iloscChlebow.delete(0, Tk.END)
     toplevel = Tk.Toplevel()
     label2 = Tk.Label(toplevel, text="Pobrano z magazynu %i g. %s" % (uzyto, wybor), font=large_font, height=0, width=100)
     label2.pack()
     b = Tk.Button(toplevel, text="Ok zamknij", font=large_font, width=20, command=lambda: [toplevel.destroy()])
     b.pack()
 
+
+skladniki = []
+magazyn = pd.read_excel("magazyn.xlsx")
+magazyn2 = magazyn.set_index("produkt", drop=True)
+dictMagazyn = dict(zip(magazyn['produkt'], magazyn['ilosc']))
+for key in dictMagazyn:
+    skladniki.append(key)
 
 root = Tk.Tk()
 root.geometry("700x700+10+150")
@@ -221,34 +227,33 @@ iloscChlebow = Tk.Entry(root, width=50, font=large_font)
 iloscChlebow.pack()
 iloscChlebow.focus()
 
-scframe = VerticalScrolledFrame(root)
-scframe.pack()
+scframe1 = VerticalScrolledFrame(root)
+scframe1.pack()
 
 files = sorted(listaPrzepisow, key=str.lower)
 btn = []
 '''Len i range wykozystac do zrobienia kolumn (dodac jeszcze jednen loop'''
 for i in range(len(files)):
-    btn.append(Tk.Button(scframe.interior, text=files[i], width=50, height=1, font=normal_font, command=lambda c=i: clicked(btn[c].cget("text"))))
+    btn.append(Tk.Button(scframe1.interior, text=files[i], width=50, height=1, font=normal_font, command=lambda c=i: clicked(btn[c].cget("text"))))
     # btn[i].bind('<Return>', (lambda event: clicked(btn[i].cget("text"))))
     btn[i].pack()
 
 b = Tk.Button(root, text="Koniec pracy", font=normal_font, command=root.destroy)
-b.pack()
+b.pack(pady=5)
 b2 = Tk.Button(root, text="Konczace sie produkty", font=normal_font, command=lambda : listabrakow())
-b2.pack()
+b2.pack(pady=5)
 
-skladniki = ['sol','mleko','chia','woda']
-dodatframe = Frame(root)
-dodatframe.pack()
-variable = StringVar(dodatframe)
-variable.set(skladniki[0]) # default value
 
-w = OptionMenu(dodatframe, variable, *skladniki)
-w.grid(row=0, column=0)
-iloscDodatkow = Tk.Entry(dodatframe, width=20, font=normal_font)
-iloscDodatkow.grid(row=0, column=1)
-b3 = Tk.Button(dodatframe, text="Pobierz", font=normal_font, command=lambda : pobierzDodatki(variable.get()))
-b3.grid(row=0, column=2)
+scframe2 = VerticalScrolledFrame(root)
+scframe2.pack()
+
+
+btn2 = []
+'''Len i range wykozystac do zrobienia kolumn (dodac jeszcze jednen loop'''
+for i in range(len(skladniki)):
+    btn2.append(Tk.Button(scframe2.interior, text=skladniki[i], width=50, height=1, font=normal_font, command=lambda c=i: pobierzDodatki(btn2[c].cget("text"))))
+    # btn[i].bind('<Return>', (lambda event: clicked(btn[i].cget("text"))))
+    btn2[i].pack()
 
 app = FullScreenApp(root)
 
